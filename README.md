@@ -18,5 +18,5 @@ Fitur Aplikasi
 6. Perangkingan alternatif ransel pendakian
 7. Penyajian hasil rekomendasi
 
-Link Download Aplikasi:
+Link Download:
 [Aplikasi dan Database](https://drive.google.com/drive/folders/1fENBM-PhfI3jXZxDY_hon-andc95bA5P?usp=drive_link)

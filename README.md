@@ -17,3 +17,6 @@ Fitur Aplikasi
 5. Pengujian konsistensi (Consistency Ratio)
 6. Perangkingan alternatif ransel pendakian
 7. Penyajian hasil rekomendasi
+
+Link Download Aplikasi:
+[Aplikasi dan Database](https://drive.google.com/drive/folders/1fENBM-PhfI3jXZxDY_hon-andc95bA5P?usp=drive_link)
